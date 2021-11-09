@@ -1,0 +1,24 @@
+git init  --> Initializes the git repository
+ls --> lists folders
+git config global user.name 'nischal' --> user name and email set to global
+git config global user.email 'nischalsunshine@gmail.com'
+git status --> find file is tracked or not
+git add .\a.txt--> adds the file and can be commited
+git add . --> adds all file to the staging area
+git rm --cached . --> unstage files
+git reset --> Resets all status
+git branch
+git checkout origin 
+git pull origin # access to all branch and can be checkout
+git merge suraj shailesh
+git diff
+git checkout #key --> restores previous files
+git reset --hard --> eraseas all changes after commit\
+git stash --> eraseas all changes after commit but can be retrieved
+git stash pop --> retrieves
+git log --> all details of changes
+
+
+
+
+
